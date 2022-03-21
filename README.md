@@ -1,1 +1,1 @@
-https://hub-binder.mybinder.ovh/user/mrurao-mrurao.github.io-uuj1or1b/doc/tree/test.ipynb
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mrurao/mrurao.github.io/HEAD?labpath=index.ipynb)
