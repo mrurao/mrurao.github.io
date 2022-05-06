@@ -12,5 +12,5 @@ dependencies:
   - bokeh
   - dask
   - ipywidgets
-  - trailets
+  - traitlets
   - bqplot
