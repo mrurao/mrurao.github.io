@@ -15,5 +15,5 @@ dependencies:
   - traitlets
   - bqplot
   - geopandas
-  - shapely.geometry
+  - shapely
   - seaborn
