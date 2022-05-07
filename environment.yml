@@ -14,3 +14,6 @@ dependencies:
   - ipywidgets
   - traitlets
   - bqplot
+  - geopandas
+  - shapely.geometry
+  - seaborn
