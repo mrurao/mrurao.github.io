@@ -15,4 +15,3 @@ dependencies:
   - traitlets
   - bqplot
   - geopandas
-  - seaborn
